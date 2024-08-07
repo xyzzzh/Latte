@@ -1,2 +1,5 @@
 .vscode
 preprocess
+.idea
+share_ckpts
+test
